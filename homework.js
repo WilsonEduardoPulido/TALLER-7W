@@ -1,5 +1,4 @@
-// Mary Rose's JavaScript Homework
-
+// Mary Rose's JavaScript Homework¬¬ Modificacion despues de eliminar
 // 1. Write an if/else statement
 var APPLE_QUANTITY = 5;
 
